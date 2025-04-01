@@ -18,5 +18,9 @@ public class Exercicio1 {
         System.out.println("A média é: " + media);
 
         scanner.close();
+
+        // Alteração para testar Pull Request
+System.out.println("Testando Pull Request!");
+
     }
 }
